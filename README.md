@@ -6,7 +6,7 @@ Developed at IMDEA Materials Institute.
 
 This repository contains the CAD files and manufacturing resources for a set of robotic grippers designed and tested at IMDEA Materials Institute.
 <p align="center">
-  <img src="im%201.png" alt="Hybrid Modular Soft Gripper" width="700">
+  <img src="Images/im%201.png" alt="Hybrid Modular Soft Gripper" width="700">
 </p>
 
 The grippers were developed for laboratory automation tasks, mainly focused on transporting **test tubes** and **Falcon tubes** within experimental setups. The design follows a hybrid rigid-soft approach, combining a rigid gripper body with interchangeable TPU soft-tip modules.
