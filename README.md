@@ -41,7 +41,7 @@ Several TPU soft-tip configurations are included to test different contact geome
 
 ## Related Projects
 
-Additional related designs can be found in the [IMDEA Waterbath GitHub repository](PASTE_LINK_HERE).
+Additional related designs can be found in the [IMDEA Waterbath GitHub repository](https://github.com/peibol1123/Waterbath-Project-IMDEA-RobotLab/tree/main).
 
 ## Acknowledgements
 
